@@ -1,0 +1,17 @@
+.gameplay-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.display-window{
+  width: 800px;
+  height:600px;
+  border-width: 20px;
+}
+
+.control-panel{
+  padding: 10px;
+  display: flex;
+  justify-content: right;
+}
